@@ -1,1 +1,3 @@
-Aplikasi Donasi Berbasis Web
+# Project Pengembangan Aplikasi Web
+
+Aplikasi donasi dengan gamifikasi
